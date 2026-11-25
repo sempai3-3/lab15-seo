@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://TU-PROYECTO.vercel.app/sitemap.xml
+Sitemap: https://lab15-seo-khaki.vercel.app/sitemap.xml
